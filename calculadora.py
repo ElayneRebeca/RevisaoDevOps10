@@ -1,5 +1,6 @@
 # calculadora.py
 # Alterando o código para o commit e push
+# fazendo o PR
 
 def somar(a, b):
     return a + b
