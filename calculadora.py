@@ -1,5 +1,5 @@
 # calculadora.py
-# Calculadora simples com tratamento de erros e suporte a operações básicas
+# Alterando o código para o commit e push
 
 def somar(a, b):
     return a + b
